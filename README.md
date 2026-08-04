@@ -37,7 +37,7 @@ Para rodar e testar os scripts contidos neste repositório, siga as instruções
 ### Passo a Passo
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/felipe7sh/bancodados.git
    ```
 
 2. **Executar o Script:**
