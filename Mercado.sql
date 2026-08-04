@@ -1,3 +1,7 @@
+create database Mercado;
+
+use mercado;
+
 create table usuarios (
 id_usuario int primary key auto_increment,
 nome varchar(30),
