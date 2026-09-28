@@ -1,3 +1,6 @@
+create database lojas;
+use loja;
+
 create table produtos (
 id INT PRIMARY KEY AUTO_INCREMENT,
 nome VARCHAR(100),
