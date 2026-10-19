@@ -34,4 +34,4 @@ select nome, preco, estoque from produtos where preco > 500 and estoque < 10;
 select nome, preco, categoria from produtos where categoria = "Informatica" or preco > 2000;
 
 -- 4
-select nome, categoria from produtos where categoria = "Informatica" or categoria = "Audio"
+select nome, categoria from produtos where categoria = "Informatica" or categoria = "Audio" -- in
